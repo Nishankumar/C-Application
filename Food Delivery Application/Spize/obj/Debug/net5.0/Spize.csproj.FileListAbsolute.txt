@@ -1,0 +1,16 @@
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spize.exe
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spize.deps.json
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spize.runtimeconfig.json
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spize.runtimeconfig.dev.json
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spize.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\ref\Spize.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spize.pdb
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.csproj.AssemblyReference.cache
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.AssemblyInfoInputs.cache
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.AssemblyInfo.cs
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.csproj.CoreCompileInputs.cache
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\ref\Spize.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.pdb
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spize.genruntimeconfig.cache

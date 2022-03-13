@@ -1,0 +1,16 @@
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spizy.exe
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spizy.deps.json
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spizy.runtimeconfig.json
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spizy.runtimeconfig.dev.json
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spizy.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\ref\Spizy.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\bin\Debug\net5.0\Spizy.pdb
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.csproj.AssemblyReference.cache
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.AssemblyInfoInputs.cache
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.AssemblyInfo.cs
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.csproj.CoreCompileInputs.cache
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\ref\Spizy.dll
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.pdb
+C:\Users\nishan.manickam\source\repos\Food Delivery Application\Spize\obj\Debug\net5.0\Spizy.genruntimeconfig.cache
